@@ -20,6 +20,8 @@
  *  Version:           2.0
  *  Design:            David Gascón 
  *  Implementation:    Marcos Yarza, Jorge Casanova & Marcos Martinez
+ *  Convert
+ *  http://www.earthpoint.us/Convert.aspx
  */
 
 // Include the SoftwareSerial library
